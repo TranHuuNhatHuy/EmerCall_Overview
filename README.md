@@ -2,6 +2,7 @@
 Contains related documents about project EmerCall, such as report and Android installation files.
 
 - REPORT_EMERCALL.pdf: official report of project EmerCall, submitted at 2018 Da Nang Mobile App Development Contest.
+- tran_Certificate.pdf: official certificate awarded to this project from 2018 Da Nang Mobile App Development Contest.
 - emercall.apk: Android installation file of EmerCall - main application for normal users, which will be distributed widely on application store platforms.
 - emercallambulance.apk: Android installation file of EmerCall Ambulance - application for ambulance drivers and staff.
 - emercallmonitoring.apk: Android installation file of EmerCall Monitoring - application for hospital staff who direct movements of ambulances.
